@@ -48,8 +48,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 -->
 
-![Snake animation](https://github.com/GinaldoDSSilva/GinaldoDSSilva/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 Here are some ideas to get you started:
 
